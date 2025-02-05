@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi , I'm Pushpendra Gupta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-# **About me**
+##  **About me**
 
 Enthusiastic and creative Front-End Developer with a
 strong focus on user experience and passion for
@@ -20,7 +19,7 @@ time.
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## **<b> Skills</b>**
 
 
 <p align="center">
@@ -54,4 +53,10 @@ time.
 <br>
 
 ---
+## Contact Me
 
+I'm all ears for collaboration and conversation. Whether you've got an exciting project in mind, want to chat about a repository, or just want to geek out about tech, reach out anytime.
+
+- 💬 Twitter: (https://x.com/pushpendrag_dev)
+- 📧 Email: pushpendrag0606@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/pushpendra-gupta1024/)
